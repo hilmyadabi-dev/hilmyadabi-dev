@@ -3,9 +3,9 @@
 
 # 👋 Hi, I'm Hilmy Arsyad
 
-### 💻 Full-Stack Web Developer
+### 💻 Full-Stack Web Developer and UI / UX Designer
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+clean+%26+scalable+web+apps;Turning+ideas+into+real+products;Always+learning+something+new;&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=+A+Full-Stack+Web+Developer+and+UI%2FUX+Designer" />
 
 </div>
 
@@ -73,12 +73,9 @@ Saya adalah seorang **Full-Stack Web Developer** yang senang membangun aplikasi 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hilmyadabi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmyadabi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmyadabi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
