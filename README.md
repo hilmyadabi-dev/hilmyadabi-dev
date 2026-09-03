@@ -1,12 +1,8 @@
-<img src="https://www.magnific.com/free-vector/mountain-landscape-against-sunset-sky_414763674.htm#fromView=image_search_similar&page=1&position=0&uuid=b7346098-5e9b-4d43-b8f2-722fb8e365c7&query=mountain+sunset+wallpaper" />
-
 <div align="center">
 
-# 👋 Hi, I'm Hilmy Arsyad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1E3A8A&height=220&section=header&text=Hilmy%20Arsyad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="Header Banner" />
 
-### 💻 Full-Stack Web Developer and UI / UX Designer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=+A+Full-Stack+Web+Developer+and+UI%2FUX+Designer" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+clean+%26+scalable+web+apps;Turning+ideas+into+real+products;Always+learning+something+new;&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 
 </div>
 
@@ -74,9 +70,12 @@ Saya adalah seorang **Full-Stack Web Developer** yang senang membangun aplikasi 
 
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=hilmyadabi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmyadabi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmyadabi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -84,7 +83,8 @@ Saya adalah seorang **Full-Stack Web Developer** yang senang membangun aplikasi 
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:58A6FF&height=100&section=footer" alt="Footer Banner" />
+
 💬 *Thanks for visiting my profile — let's build something great together!*
 
 </div>
-```
