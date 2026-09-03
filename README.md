@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1E3A8A&height=220&section=header&text=Hilmy%20Arsyad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1E3A8A&height=220&section=header&text=Hilmy%20Arsyad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="Header Banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean+%26+scalable+web+apps;Turning+ideas+into+real+products;Always+learning+something+new;&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 
@@ -83,8 +83,8 @@ Saya adalah seorang **Full-Stack Web Developer** yang senang membangun aplikasi 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:58A6FF&height=100&section=footer" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:58A6FF&height=100&section=footer" alt="Footer Banner" width="100%" />
 
-💬 *Thanks for visiting my profile — let's build something great together!*
+💬 *let's build something great together!*
 
 </div>
