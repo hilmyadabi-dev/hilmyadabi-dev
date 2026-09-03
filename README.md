@@ -5,7 +5,7 @@
 
 ### 💻 Full-Stack Web Developer and UI / UX Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=+A+Full-Stack+Web+Developer+and+UI%2FUX+Designer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=+A+Full-Stack+Web+Developer+and+UI%2FUX+Designer" />
 
 </div>
 
